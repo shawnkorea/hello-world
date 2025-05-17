@@ -1,6 +1,7 @@
 # hello-world
 This repository is for practicing GitHub Flow.
 
+# about me
 I'm from South Korea and moved to Georgia in February 2024.
 I'm a CC student in Georgia now.
 My major is Computer science.
